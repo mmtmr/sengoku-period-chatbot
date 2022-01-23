@@ -1,0 +1,9 @@
+{
+  "id": "b805c6ab-e81b-4ca7-9a62-b030167d48fd",
+  "name": "Battle",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

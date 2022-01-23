@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Vino",
+    "synonyms": [
+      "Vino"
+    ]
+  },
+  {
+    "value": "@sys.given-name:given-name ",
+    "synonyms": [
+      "@sys.given-name:given-name "
+    ]
+  }
+]

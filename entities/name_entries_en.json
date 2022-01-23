@@ -1,0 +1,32 @@
+[
+  {
+    "value": "@sys.person:name ",
+    "synonyms": [
+      "@sys.person:name "
+    ]
+  },
+  {
+    "value": "Vino",
+    "synonyms": [
+      "Vino"
+    ]
+  },
+  {
+    "value": "@sys.given-name:givenName",
+    "synonyms": [
+      "@sys.given-name:givenName"
+    ]
+  },
+  {
+    "value": "@sys.last-name:lastName",
+    "synonyms": [
+      "@sys.last-name:lastName"
+    ]
+  },
+  {
+    "value": "Kein",
+    "synonyms": [
+      "Kein"
+    ]
+  }
+]
