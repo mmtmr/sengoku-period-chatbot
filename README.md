@@ -6,7 +6,7 @@ An expert system is a computer application to solve problems in a specific domai
 ![Semantic Network 1](https://user-images.githubusercontent.com/76145646/150676670-52899cc7-e7ce-46e9-94b7-f2db02d7724d.png)
 
 ### Before Honno-ji Incident
-![Semantic Network 2](httpsSemantic Network 2://user-images.githubusercontent.com/76145646/150676686-7ac09ede-352f-4c7c-b6e2-ec410be4ad95.png)
+![Semantic Network 2](https://user-images.githubusercontent.com/76145646/150676686-7ac09ede-352f-4c7c-b6e2-ec410be4ad95.png)
 
 ### After Honno-ji Incident
 ![Semantic Network 3](https://user-images.githubusercontent.com/76145646/150676711-9708c060-49b1-4d5c-9dd8-95c8bf394d86.png)
